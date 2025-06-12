@@ -23,18 +23,13 @@ app.use(express.json());
 // Configura tus credenciales de Firebase aquí: 
 
 const firebaseConfig = { 
-
-  apiKey: "TU_API_KEY", 
-
-  authDomain: "TU_AUTH_DOMAIN", 
-
-  projectId: "TU_PROJECT_ID", 
-
-  storageBucket: "TU_STORAGE_BUCKET", 
-
-  messagingSenderId: "TU_MESSAGING_SENDER_ID", 
-
-  appId: "TU_APP_ID" 
+apiKey: "AIzaSyCWW3XgtGG7agkUkdUiS7kU4X7ew2DjTic",
+  authDomain: "expo-project-senior-6bfea.firebaseapp.com",
+  projectId: "expo-project-senior-6bfea",
+  storageBucket: "expo-project-senior-6bfea.firebasestorage.app",
+  messagingSenderId: "188431803500",
+  appId: "1:188431803500:web:c6f64089f19ac1b64ca449",
+  measurementId: "G-5Q8NB4WFK6" 
 
 }; 
 
